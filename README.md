@@ -1,2 +1,2 @@
-# Spike-Wpf2015
-WPF Programming Study Based On VisualStudio 2015
+# Spike-WPF
+WPF Programming Study Based On VisualStudio
